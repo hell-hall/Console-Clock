@@ -1,0 +1,11 @@
+H:\source\repos\DigitalClockVB\DigitalClockVB\bin\Debug\DigitalClockVB.exe.config
+H:\source\repos\DigitalClockVB\DigitalClockVB\bin\Debug\DigitalClockVB.exe
+H:\source\repos\DigitalClockVB\DigitalClockVB\bin\Debug\DigitalClockVB.pdb
+H:\source\repos\DigitalClockVB\DigitalClockVB\bin\Debug\DigitalClockVB.xml
+H:\source\repos\DigitalClockVB\DigitalClockVB\obj\Debug\DigitalClockVB.vbproj.AssemblyReference.cache
+H:\source\repos\DigitalClockVB\DigitalClockVB\obj\Debug\DigitalClockVB.Resources.resources
+H:\source\repos\DigitalClockVB\DigitalClockVB\obj\Debug\DigitalClockVB.vbproj.GenerateResource.cache
+H:\source\repos\DigitalClockVB\DigitalClockVB\obj\Debug\DigitalClockVB.vbproj.CoreCompileInputs.cache
+H:\source\repos\DigitalClockVB\DigitalClockVB\obj\Debug\DigitalClockVB.exe
+H:\source\repos\DigitalClockVB\DigitalClockVB\obj\Debug\DigitalClockVB.xml
+H:\source\repos\DigitalClockVB\DigitalClockVB\obj\Debug\DigitalClockVB.pdb
